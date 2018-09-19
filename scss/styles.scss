@@ -1001,7 +1001,8 @@ footer {
 	}
 
 	.project-image {
-		display: none;
+		display: block;
+		width: 100%;
 	}
 
 	.project-info {
@@ -1009,7 +1010,7 @@ footer {
 		margin: 0;
 		padding: 30px 15px;
 		top: auto;
-		transform: none;
+		width: 100%;
 	}
 
 	footer {
